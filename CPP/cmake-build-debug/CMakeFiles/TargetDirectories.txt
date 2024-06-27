@@ -1,0 +1,3 @@
+C:/Facultate/Written bachelors exam/problem-solutions/CPP/cmake-build-debug/CMakeFiles/CPP.dir
+C:/Facultate/Written bachelors exam/problem-solutions/CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/Written bachelors exam/problem-solutions/CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
