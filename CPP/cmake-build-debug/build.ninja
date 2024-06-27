@@ -55,12 +55,6 @@ build CMakeFiles/CPP.dir/september2023/pb5.cpp.obj: CXX_COMPILER__CPP_unscanned_
   OBJECT_DIR = CMakeFiles\CPP.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP.dir\september2023
 
-build CMakeFiles/CPP.dir/september2023/pb4.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Facultate/Written$ bachelors$ exam/problem-solutions/CPP/september2023/pb4.cpp || cmake_object_order_depends_target_CPP
-  DEP_FILE = CMakeFiles\CPP.dir\september2023\pb4.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\CPP.dir
-  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\september2023
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP
@@ -69,7 +63,7 @@ build CMakeFiles/CPP.dir/september2023/pb4.cpp.obj: CXX_COMPILER__CPP_unscanned_
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/september2023/pb5.cpp.obj CMakeFiles/CPP.dir/september2023/pb4.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/september2023/pb5.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir
