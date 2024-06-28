@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/Facultate/Written$ bachelors$ exam/problem-solutions/C
 
 build cmake_object_order_depends_target_CPP: phony || CMakeFiles/CPP.dir
 
-build CMakeFiles/CPP.dir/september2023/pb5.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Facultate/Written$ bachelors$ exam/problem-solutions/CPP/september2023/pb5.cpp || cmake_object_order_depends_target_CPP
-  DEP_FILE = CMakeFiles\CPP.dir\september2023\pb5.cpp.obj.d
+build CMakeFiles/CPP.dir/model2020.cpp.obj: CXX_COMPILER__CPP_unscanned_Debug C$:/Facultate/Written$ bachelors$ exam/problem-solutions/CPP/model2020.cpp || cmake_object_order_depends_target_CPP
+  DEP_FILE = CMakeFiles\CPP.dir\model2020.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CPP.dir
-  OBJECT_FILE_DIR = CMakeFiles\CPP.dir\september2023
+  OBJECT_FILE_DIR = CMakeFiles\CPP.dir
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/CPP.dir/september2023/pb5.cpp.obj: CXX_COMPILER__CPP_unscanned_
 #############################################
 # Link the executable CPP.exe
 
-build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/september2023/pb5.cpp.obj
+build CPP.exe: CXX_EXECUTABLE_LINKER__CPP_Debug CMakeFiles/CPP.dir/model2020.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP.dir

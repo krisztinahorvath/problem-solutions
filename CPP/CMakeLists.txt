@@ -4,5 +4,5 @@ project(CPP)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(CPP
-        september2023/pb5.cpp
+        model2020.cpp
 )
